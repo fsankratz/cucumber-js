@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./docs/images/logo.svg" alt="">
   <br>
-  Cucumber
+  Cucumber Test
 </h1>
 <p align="center">
   <b>Automated tests in plain language, for Node.js</b>
